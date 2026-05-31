@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ### 3. Set environment variables
 ```bash
-export GEMINI_API_KEY="your-gemini-key"
+export OPENAI_API_KEY="your-openai-key"
 export GITHUB_TOKEN="your-github-token"
 export GITHUB_REPO="your-username/your-test-repo"
 ```
