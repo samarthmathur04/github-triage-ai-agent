@@ -1,6 +1,7 @@
 # Secrets — never commit these
 .env
 interview_prep.md.pdf
+.DS_Store
 
 # Python
 __pycache__/
