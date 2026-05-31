@@ -1,0 +1,9 @@
+# Secrets — never commit these
+.env
+interview_prep.md.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
